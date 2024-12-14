@@ -1,0 +1,9 @@
+# ninja log v5
+2	249	1734166685086193751	sdfsqw_autogen/timestamp	98ddcf25d05a832d
+2	249	1734166685086193751	sdfsqw_autogen/mocs_compilation.cpp	98ddcf25d05a832d
+2	249	1734166685086193751	/home/roman/MyProject/sdfsqw/build/Desktop-Debug/sdfsqw_autogen/timestamp	98ddcf25d05a832d
+2	249	1734166685086193751	/home/roman/MyProject/sdfsqw/build/Desktop-Debug/sdfsqw_autogen/mocs_compilation.cpp	98ddcf25d05a832d
+250	1555	1734166686395190605	CMakeFiles/sdfsqw.dir/sdfsqw_autogen/mocs_compilation.cpp.o	13e85a1e49dd26b8
+250	1587	1734166686427190529	CMakeFiles/sdfsqw.dir/main.cpp.o	f4ca52f7fb1aed1b
+250	1736	1734166686576190171	CMakeFiles/sdfsqw.dir/mainwindow.cpp.o	923da30133b8616
+1736	2015	1734166686852189508	sdfsqw	cb39b2fde2b17b
